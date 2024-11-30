@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandygoreraza
 - 👀 I’m interested in Web development, database design and mobile development
-- 🌱 I’m currently learning kotlin android development
+- 🌱 I’m good at C#, PHP, JavaScript
 - 💞️ I’m looking to collaborate on web and mobile app development
 - 📫 How to reach me at : sandygoreraza@hotmail.com
 
